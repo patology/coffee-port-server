@@ -26,3 +26,5 @@ The huge contrast between the potential foreign currency we could get just from 
 Our platform simplifies the process of import-export. It enables anyone, even with a nonexistent network, to connect with importers and get in export business easily. This will greatly improve the lives of poor farmers because if the export demand grows they will also get well compensated for their products and will also be motivated to produce products based on the demand of foreign markets. 
 
 This will help us get good revenue from brokering the deals, while letting traders do their jobs at ease, with a smooth flow. It will also help our country get more foreign currency and share its great products with the rest of the world.
+
+#not working
